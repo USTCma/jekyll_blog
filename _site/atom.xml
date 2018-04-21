@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-26T23:14:26+08:00</updated><id>http://localhost:4000/</id><title type="html">细节 · 匠心</title><subtitle>马睿的个人小站，记录关于产品、技术以及个人的思想点滴</subtitle><author><name>Rui Ma</name></author><entry><title type="html">腾讯产品心法总结笔记(未完待续)</title><link href="http://localhost:4000/ProductHeartMethodOnTencent/" rel="alternate" type="text/html" title="腾讯产品心法总结笔记(未完待续)" /><published>2018-03-19T04:54:23+08:00</published><updated>2018-03-19T04:54:23+08:00</updated><id>http://localhost:4000/ProductHeartMethodOnTencent</id><content type="html" xml:base="http://localhost:4000/ProductHeartMethodOnTencent/">&lt;p&gt;&lt;br /&gt;
+周末看了《腾讯8分钟产品课》，废话不多说，干货总结如下。&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;用户&quot;&gt;用户&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/user.png&quot; alt=&quot;用户&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://daxue.qq.com/content/content/id/3675&quot;&gt;点击观看&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;定位&quot;&gt;定位&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/%E5%AE%9A%E4%BD%8D.png&quot; alt=&quot;定位&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://daxue.qq.com/content/content/id/3723&quot;&gt;点击观看&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;需求&quot;&gt;需求&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/needs.png&quot; alt=&quot;需求&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://daxue.qq.com/content/content/id/3794&quot;&gt;点击观看&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;时机&quot;&gt;时机&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/times.png&quot; alt=&quot;时机&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://daxue.qq.com/content/content/id/3858&quot;&gt;点击观看&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;匠心&quot;&gt;匠心&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/%E5%8C%A0%E5%BF%83.png&quot; alt=&quot;匠心&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://daxue.qq.com/content/content/id/3934&quot;&gt;点击观看&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;未完待续，期待产品心法的第6、7、8集。&lt;/p&gt;</content><author><name>Rui Ma</name></author><category term="总结" /><category term="腾讯" /><category term="思考" /><summary type="html">周末看了《腾讯8分钟产品课》，废话不多说，干货总结如下。 用户</summary></entry><entry><title type="html">重新起航·2018</title><link href="http://localhost:4000/GoOn_2018/" rel="alternate" type="text/html" title="重新起航·2018" /><published>2018-02-17T04:18:00+08:00</published><updated>2018-02-17T04:18:00+08:00</updated><id>http://localhost:4000/GoOn_2018</id><content type="html" xml:base="http://localhost:4000/GoOn_2018/">&lt;p&gt;今年春节，感慨最多的就是时间过得太快了。一年又一年，时间都去哪里了呢？&lt;/p&gt;
+
+&lt;p&gt;时间留在了我工作过的大大小小的公司里，记录在我经历过的各种项目中。&lt;/p&gt;
+
+&lt;p&gt;这些年，经历过的公司多多少少都教会了我一些道理：&lt;/p&gt;
+
+&lt;p&gt;在腾讯，她教会我互联网思维，经历了最前沿的互联网体验，教会我包容、有内涵、不浮夸。&lt;/p&gt;
+
+&lt;p&gt;在阅文，她教会我坚持，一个十多年的互联网老兵如何焕发新生。扁平化的管理，让我体验到小公司的工作方式，同时也是我蜕变的一年。我至今记得老爷说过的一句话，工作最好的评价的就是，不给他人添麻烦。虽然这话在阿里不太适用，但是适用于整个工作生涯。&lt;/p&gt;
+
+&lt;p&gt;在阿里，她教会我现实，残酷的黑暗森林法则，同时又是人情关系极重的一家公司。仿佛大跃进式的人有多大胆，地有多大产式的KPI导向，完不成可能就会面临解散。我不说这种运作方式合不合理，但是这些确实教会我目标明确，坚持拿到结果为第一。&lt;/p&gt;
+
+&lt;p&gt;回顾自己拿到结果的项目有：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;一手搭建优酷少儿CMS后台，移动APP、频道页、OTT数据和接口统一；&lt;/li&gt;
+  &lt;li&gt;从零搭建优酷少儿大数据建设；&lt;/li&gt;
+  &lt;li&gt;优酷少儿OTT大屏产品独立APP迭代；&lt;/li&gt;
+  &lt;li&gt;小小优酷APP移动端迭代；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;历数这些经历，时间还是有所积累和沉淀的。&lt;/p&gt;
+
+&lt;p&gt;新的一年，希望自己做到：不给队友挖坑，不给用户挖坑，不给后人挖坑。学习实践创新，管理预期，顺势而为。&lt;/p&gt;
+
+&lt;p&gt;也期望新年能够完成三个小目标：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;晋升成功；&lt;/li&gt;
+  &lt;li&gt;买到房子；&lt;/li&gt;
+  &lt;li&gt;找到心爱的姑娘；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;无论如何：遗憾的，未完的；憧憬的，待续的……&lt;/p&gt;
+
+&lt;p&gt;都在新的一年里，重新开始。加油！&lt;/p&gt;</content><author><name>Rui Ma</name></author><category term="总结" /><category term="感悟" /><category term="职场" /><summary type="html">今年春节，感慨最多的就是时间过得太快了。一年又一年，时间都去哪里了呢？</summary></entry><entry><title type="html">人间不值得</title><link href="http://localhost:4000/Talk2ThirteenPeople/" rel="alternate" type="text/html" title="人间不值得" /><published>2018-01-29T07:14:02+08:00</published><updated>2018-01-29T07:14:02+08:00</updated><id>http://localhost:4000/Talk2ThirteenPeople</id><content type="html" xml:base="http://localhost:4000/Talk2ThirteenPeople/">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“我自己的感觉是，其实大家都过得不开心，但每个人都在强装自己特别开心。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“我们好像失去了对一些事情改变的动力，当我们需要用一种解构的态度，去面对世界的时候，我们该如何自处呢？”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“中国的年轻人是没有青年阶段的，都希望特别快地洗掉自己身上的校园气，迅速地完成社会化。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“一个人当她自己还没有准备好，来面对这个世界的时候，她是不是就不应该把下一代，带到这个世界上来重蹈覆辙？”
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;《十三邀》最新的一期邀请了风头正劲的李诞，一个貌似嘻嘻哈哈，活得特别快乐的人。&lt;/p&gt;
+
+&lt;p&gt;文艺青年都想活得自我，坚守着信念，觉得自己无所不能。但是现实的压力，一点点将其蚕食。一边奋斗着房子、车子、票子，一边觉得什么都没有意义。&lt;/p&gt;
+
+&lt;p&gt;“财务自由”就相当有意义。然而有意义的另一面，是“求不得”。&lt;/p&gt;
+
+&lt;p&gt;对多数中国年轻人来说，“财务自由”只是一个梦，永远不会成为现实。&lt;/p&gt;
+
+&lt;p&gt;因为求不得，所以理所当然“不开心”；&lt;/p&gt;
+
+&lt;p&gt;因为要跟上这台快速运转的跑步机，所以要迅速“社会化”；&lt;/p&gt;
+
+&lt;p&gt;因为无法反抗和改变这样的生存状态，让这台机器更慢一点儿，所以“失去改变的动力”，进而只能以戏谑、解构的方式看待自己和世界。&lt;/p&gt;
+
+&lt;p&gt;《十三邀》里，许知远说：“仅仅只是有些时代，笑才重要。”&lt;/p&gt;
+
+&lt;p&gt;李诞反驳，“在哪些时代，笑不重要呢？”&lt;/p&gt;
+
+&lt;p&gt;在李诞和许知远的对谈里，李诞频繁聊到的字眼，除了“无意义”，就是“钱”。其他一切都无意义，但钱显然很有意义。&lt;/p&gt;
+
+&lt;p&gt;李诞说了一段让我印象深刻的话：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“我很长一段时间都是觉得，啥都没劲。我后来逼迫自己，因为我喝三块钱一瓶的啤酒，也很开心。但我想，我这样下去是不是就这么完了，我回内蒙，找个屋喝一杯子啤酒。这也行啊！我跟您说，最可怕的，就是这个也行。因为在我心里，这种选择，真的行。所以我就一定要像现在这样，打一个小粉领带，我才能够健康的活着。”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“最可怕的，就是这个也行”——李诞道出了这一代人关键的恐惧。&lt;/p&gt;
+
+&lt;p&gt;表面上，佛系青年觉得这也行，那也行，充满虚无感，其实真让他们出家，一定万万不行。因为正如李诞所说，包括他在内的大多数人，都是“为别人而活”，甚至是为一整套评价体系而活。&lt;/p&gt;
+
+&lt;p&gt;在这套评价体系下，带来快乐的不是诗和远方，不是大彻大悟，而是把握机会，和财务自由。&lt;/p&gt;
+
+&lt;p&gt;一切都不重要，因为人间不值得，所以我要娱乐至死——这是李诞坚定表达的、而许知远一定是坚决反对的观点。&lt;/p&gt;
+
+&lt;p&gt;但实质上，作为两个时代的文艺青年，许知远和李诞有很大区别吗？&lt;/p&gt;
+
+&lt;p&gt;我想说，大家谁不是从许知远活成了李诞？&lt;/p&gt;
+
+&lt;p&gt;常年有工作不顺、突然失业、惨遭失恋、身患抑郁、自寻短见的人在微博上向“好笑的”李诞求助，李诞最后统一回复了一句置顶微博：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;开心点朋友们，人间不值得。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;embed src=&quot;http://player.youku.com/player.php/sid/XMzMzMzIyODUzMg==/v.swf&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;100%&quot; height=&quot;430&quot; align=&quot;middle&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;</content><author><name>Rui Ma</name></author><category term="思考" /><category term="文化" /><category term="十三邀" /><summary type="html">“我自己的感觉是，其实大家都过得不开心，但每个人都在强装自己特别开心。”</summary></entry><entry><title type="html">2017，还活着</title><link href="http://localhost:4000/ToLive2017/" rel="alternate" type="text/html" title="2017，还活着" /><published>2017-12-31T02:54:23+08:00</published><updated>2017-12-31T02:54:23+08:00</updated><id>http://localhost:4000/ToLive2017</id><content type="html" xml:base="http://localhost:4000/ToLive2017/">&lt;p&gt;2017年，离开上海，来到了杭州，开启了新的生活。其实，为了房子、票子向生活低了头。&lt;/p&gt;
+
+&lt;p&gt;原想总结点啥，却发现提笔啥都写不出来。就这样吧，活着，比啥都好。&lt;/p&gt;
+
+&lt;p&gt;2018，不再做梦，不再永远年轻，不再永远热泪盈眶。只希望升职加薪、希望家人健康、希望买房买车。&lt;/p&gt;
+
+&lt;p&gt;愿在杭州可以过得更好。&lt;/p&gt;
+
+&lt;embed src=&quot;http://player.youku.com/player.php/sid/XNjIxNjMwMTQw==/v.swf&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;100%&quot; height=&quot;430&quot; align=&quot;middle&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;</content><author><name>Rui Ma</name></author><category term="总结" /><summary type="html">2017年，离开上海，来到了杭州，开启了新的生活。其实，为了房子、票子向生活低了头。</summary></entry><entry><title type="html">Quant资料整理</title><link href="http://localhost:4000/QuantsTips/" rel="alternate" type="text/html" title="Quant资料整理" /><published>2017-10-04T00:54:00+08:00</published><updated>2017-10-04T00:54:00+08:00</updated><id>http://localhost:4000/QuantsTips</id><content type="html" xml:base="http://localhost:4000/QuantsTips/">&lt;p&gt;最近，我下载了App Store财务分类下，有银行管存&lt;sup&gt;[1]&lt;/sup&gt;的所有的互金产品，包括爱钱进、悟空理财、PPmoney，好规划等等。我发现大部分理财产品新人礼包的综合年利率都能达到10%以上，但是要么只能维持一个月、要么就是有定额限制。在收益驱动下，我又开始接触且慢和魔方理财，受这些量化投资APP的启发，自己慢慢开始琢磨一些策略，所以整理出一些Quant&lt;sup&gt;[2]&lt;/sup&gt;资源。&lt;/p&gt;
+
+&lt;h2 id=&quot;国内在线量化平台&quot;&gt;国内在线量化平台&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bigquant.com/&quot;&gt;BigQuant&lt;/a&gt; - 你的人工智能量化平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.raquant.com/&quot;&gt;镭矿&lt;/a&gt; - 基于量化回测平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://guorn.com/&quot;&gt;果仁网&lt;/a&gt; - 回测量化平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://quant.jd.com/&quot;&gt;京东量化&lt;/a&gt; - 算法交易和量化回测平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://uqer.io/home/&quot;&gt;优矿&lt;/a&gt; - 通联量化实验室&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.ricequant.com/&quot;&gt;Ricequant&lt;/a&gt; - 量化交易平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://qutke.com/&quot;&gt;况客&lt;/a&gt; - 基于R语言量化回测平台&lt;/p&gt;
+
+&lt;h2 id=&quot;相关平台&quot;&gt;相关平台&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.myquant.cn/&quot;&gt;掘金量化&lt;/a&gt; - 支持C/C++、C#、MATLAB、Python和R的量化交易平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.digquant.com.cn/&quot;&gt;DigQuant&lt;/a&gt; - 提供基于matlab量化工具&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.smartquant.cn/&quot;&gt;SmartQuant&lt;/a&gt; - 策略交易平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/QuantBox/OpenQuant-Esunny&quot;&gt;OpenQuant&lt;/a&gt; - 基于C#的开源量化回测平台&lt;/p&gt;
+
+&lt;h2 id=&quot;开源框架&quot;&gt;开源框架&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/pandas-dev/pandas&quot;&gt;Pandas&lt;/a&gt; - 数据分析包&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/quantopian/zipline&quot;&gt;Zipline&lt;/a&gt; - 一个Python的回测框架&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/vnpy/vnpy&quot;&gt;vnpy&lt;/a&gt; - 基于python的开源交易平台开发框架&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pypi.python.org/pypi/tushare/&quot;&gt;tushare&lt;/a&gt; - 财经数据接口包&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/shidenggui/easytrader&quot;&gt;easytrader&lt;/a&gt; - 进行自动的程序化股票交易&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/gbeced/pyalgotrade&quot;&gt;pyalgotrade&lt;/a&gt; - 一个Python的事件驱动回测框架&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/Yam-cn/pyalgotrade-cn&quot;&gt;pyalgotrade-cn&lt;/a&gt; - Pyalgotrade-cn在原版pyalgotrade的基础上加入了A股历史行情回测，并整合了tushare提供实时行情。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/ziwang-com/&quot;&gt;zwPython&lt;/a&gt; - 基于winpython的集成式python开发平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/joshuaulrich/quantmod&quot;&gt;quantmod&lt;/a&gt; - 量化金融建模&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/ricequant/rqalpha/&quot;&gt;rqalpha&lt;/a&gt; - 基于Python的回测引擎&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/QuantFans/quantdigger&quot;&gt;quantdigger&lt;/a&gt; - 基于python的量化回测框架&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/harveywwu/pyktrader&quot;&gt;pyktrader&lt;/a&gt; - 基于pyctp接口，并采用vnpy的eventEngine，使用tkinter作为GUI的python交易平台&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/QuantConnect/Lean&quot;&gt;QuantConnect/Lean&lt;/a&gt; - Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#, VB, Java)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/yutiansut/QUANTAXIS&quot;&gt;QUANTAXIS&lt;/a&gt; - 量化金融策略框架&lt;/p&gt;
+
+&lt;h2 id=&quot;库&quot;&gt;库&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pandas.pydata.org/&quot;&gt;pandas&lt;/a&gt; - Python做数据分析的基础&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/enthought/pyql&quot;&gt;pyql&lt;/a&gt; - Cython QuantLib wrappers&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pmorissette.github.io/ffn/quick.html&quot;&gt;ffn&lt;/a&gt; - 绩效评估&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/mrjbq7/ta-lib&quot;&gt;ta-lib&lt;/a&gt;: Python wrapper for TA-Lib (http://ta-lib.org/). - 技术指标&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://statsmodels.sourceforge.net/&quot;&gt;StatsModels&lt;/a&gt;: Statistics in Python — statsmodels documentation - 常用统计模型&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/bashtage/arch&quot;&gt;arch&lt;/a&gt;: ARCH models in Python - 时间序列&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/quantopian/pyfolio&quot;&gt;pyfolio&lt;/a&gt;: Portfolio and risk analytics in Python - 组合风险评估&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/twosigma/flint&quot;&gt;twosigma/flint&lt;/a&gt;: A Time Series Library for Apache Spark - Apache Spark上的时间序列库&lt;/p&gt;
+
+&lt;h2 id=&quot;数据源&quot;&gt;数据源&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tushare.org/&quot;&gt;TuShare&lt;/a&gt; - 中文财经数据接口包&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.quandl.com/&quot;&gt;Quandl&lt;/a&gt; - 国际金融和经济数据&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.wind.com.cn/NewSite/edb.html&quot;&gt;Wind资讯-经济数据库&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://choice.eastmoney.com/Product/index.html&quot;&gt;东方财富 Choice金融数据研究终端&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.51ifind.com/&quot;&gt;iFinD 同花顺金融数据终端&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.go-goal.cn/&quot;&gt;朝阳永续 Go-Goal数据终端&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tinysoft.com.cn/TSDN/HomePage.tsl&quot;&gt;天软数据&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gtarsc.com/&quot;&gt;国泰安数据服务中心&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.resset.cn/&quot;&gt;锐思数据&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://open.hscloud.cn/&quot;&gt;恒生API&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.bloomberglabs.com/api/libraries/&quot;&gt;Bloomberg API&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://developer.chinascope.com/&quot;&gt;数库金融数据和深度分析API服务&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://quantpedia.com/Links/HistoricalData&quot;&gt;Historical Data Sources&lt;/a&gt; - 一个数据源索引&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.yucezhe.com/&quot;&gt;预测者网&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cninfo.com.cn/cninfo-new/index&quot;&gt;巨潮资讯&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.datayes.com/&quot;&gt;通联数据商城&lt;/a&gt; - 收费&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tdx.com.cn/&quot;&gt;通达信&lt;/a&gt; - 免费&lt;/p&gt;
+
+&lt;h2 id=&quot;数据库&quot;&gt;数据库&lt;/h2&gt;
+
+&lt;p&gt;manahl/arctic: High performance datastore for time series and tick data - 基于mongodb和python的高性能时间序列和tick数据存储&lt;/p&gt;
+
+&lt;p&gt;kdb The Leader in High-Performance Tick Database Technology Kx Systems - 收费的高性能金融序列数据库解决方案&lt;/p&gt;
+
+&lt;p&gt;MongoDB Blog - 用mongodb存储时间序列数据&lt;/p&gt;
+
+&lt;p&gt;InfluxDB – Time-Series Data Storage InfluxData - Go写的分布式时间序列数据库&lt;/p&gt;
+
+&lt;p&gt;OpenTSDB/opentsdb: A scalable, distributed Time Series Database. - 基于HBase的时间序列数据库&lt;/p&gt;
+
+&lt;p&gt;kairosdb/kairosdb: Fast scalable time series database - 基于Cassandra的时间序列数据库&lt;/p&gt;
+
+&lt;p&gt;SQLite Home Page&lt;/p&gt;
+
+&lt;h2 id=&quot;网站论坛社区博客&quot;&gt;网站、论坛、社区、博客&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://community.bigquant.com/&quot;&gt;BigQuant量化社区&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://weibo.com/u/3183064657%3Ftopnav%3D1%26wvr%3D6%26topsug%3D1&quot;&gt;算法组_新浪微博&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.oceantribe.org/xf/index.php&quot;&gt;海洋部落&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.newsmth.net/&quot;&gt;水木社区&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bbs.pinggu.org/forum-2166-1.html&quot;&gt;（经管之家）人大经济论坛&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://forum.thuquant.com/&quot;&gt;清华大学学生经济金融论坛&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://code.tradeclassroom.com/&quot;&gt;Code4Quant&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.zhihu.com/topic/19815465/hot&quot;&gt;量化交易 - 热门问答 - 知乎&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jisilu.cn/&quot;&gt;集思录 - 低风险投资 - 集思录&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://xueqiu.com/%23/&quot;&gt;雪球 - 聪明的投资者都在这里&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/myquant/strategy/&quot;&gt;myquant/strategy: 掘金策略集锦&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.zenotrade.com/&quot;&gt;芝诺量化交易,程序化交易&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cos.name/&quot;&gt;统计之都 (Capital of Statistics)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chinaqi.org/default.php&quot;&gt;中国量化投资学会&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.zhihu.com/topic/19557481&quot;&gt;宽客 (Quant) - 索引 - 知乎&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.sina.com.cn/s/blog_4cf8aad30102e5dh.html&quot;&gt;faruto的博客&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.sina.com.cn/financialindependence&quot;&gt;david自由之路&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wangzhai2008.blog.hexun.com/&quot;&gt;债券的大拿没钱又丑&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://huzi2010.blog.hexun.com/&quot;&gt;期货用来复盘的blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://xman707.blog.163.com/&quot;&gt;股海泛舟 - 股海范舟&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dtdg777.blog.163.com/&quot;&gt;带头大哥777的博客&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;交易api&quot;&gt;交易API&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sfit.com.cn/5_2_DocumentDown.htm&quot;&gt;上海期货信息技术有限公司CTP API&lt;/a&gt; - 期货交易所提供的API&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cffexit.com.cn/static/3000201.html&quot;&gt;飞马快速交易平台&lt;/a&gt; - 上海金融期货信息技术有限公司 - 飞马&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.dfitc.com.cn/portal/cate%3Fcid%3D1364967839100%231&quot;&gt;大连飞创信息技术有限公司&lt;/a&gt; - 飞创&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/vnpy/vnpy&quot;&gt;vnpy&lt;/a&gt; - 基于python的开源交易平台开发框架&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/QuantBox/XAPI2&quot;&gt;QuantBox/XAPI2&lt;/a&gt; - 统一行情交易接口第2版&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com/shidenggui/easytrader&quot;&gt;easytrader&lt;/a&gt; - 提供券商华泰/佣金宝/银河/广发/雪球的基金、股票自动程序化交易，量化交易组件&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.interactivebrokers.com.hk/cn/index.php%3Ff%3D5234%26ns%3DT&quot;&gt;IB API  Interactive Brokers&lt;/a&gt; - 盈透证券的交易API&lt;/p&gt;
+
+&lt;h2 id=&quot;书籍&quot;&gt;书籍&lt;/h2&gt;
+
+&lt;p&gt;《投资学》第6版[美]兹维·博迪.文字版&lt;/p&gt;
+
+&lt;p&gt;《打开量化投资的黑箱》 里什·纳兰&lt;/p&gt;
+
+&lt;p&gt;《宽客》[美] 斯科特·帕特森（Scott Patterson） 著；译科，卢开济 译&lt;/p&gt;
+
+&lt;p&gt;《解读量化投资：西蒙斯用公式打败市场的故事》 忻海&lt;/p&gt;
+
+&lt;p&gt;《Trends in Quantitative Finance》 Frank J. Fabozzi, Sergio M. Focardi, Petter N. Kolm&lt;/p&gt;
+
+&lt;p&gt;《漫步华尔街》麦基尔&lt;/p&gt;
+
+&lt;p&gt;《海龟交易法则》柯蒂斯·费思&lt;/p&gt;
+
+&lt;p&gt;《交易策略评估与最佳化》罗伯特·帕多&lt;/p&gt;
+
+&lt;p&gt;《统计套利》 安德鲁·波尔《信号与噪声》纳特•西尔弗&lt;/p&gt;
+
+&lt;p&gt;《期货截拳道》朱淋靖&lt;/p&gt;
+
+&lt;p&gt;《量化投资—策略与技术》 丁鹏&lt;/p&gt;
+
+&lt;p&gt;《量化投资—以matlab为工具》 李洋faruto&lt;/p&gt;
+
+&lt;p&gt;《量化投资策略:如何实现超额收益Alpha》 吴冲锋&lt;/p&gt;
+
+&lt;p&gt;《中低频量化交易策略研发（上）》 杨博理&lt;/p&gt;
+
+&lt;p&gt;《走出幻觉走向成熟》 金融帝国&lt;/p&gt;
+
+&lt;p&gt;《通往财务自由之路》范K撒普&lt;/p&gt;
+
+&lt;p&gt;《以交易为生》 埃尔德&lt;/p&gt;
+
+&lt;p&gt;《超越技术分析》图莎尔·钱德&lt;/p&gt;
+
+&lt;p&gt;《高级技术分析》布鲁斯·巴布科克&lt;/p&gt;
+
+&lt;p&gt;《积极型投资组合管理》格里纳德，卡恩&lt;/p&gt;
+
+&lt;p&gt;《金融计量学:从初级到高级建模技术》 斯维特洛扎&lt;/p&gt;
+
+&lt;p&gt;《投资革命》Bernstein&lt;/p&gt;
+
+&lt;p&gt;《富可敌国》Sebastian Mallaby&lt;/p&gt;
+
+&lt;p&gt;《量化交易——如何建立自己的算法交易事业》欧内斯特·陈&lt;/p&gt;
+
+&lt;p&gt;《聪明的投资者》 巴菲特&lt;/p&gt;
+
+&lt;p&gt;《黑天鹅·如何应对不可知的未来》 纳西姆·塔勒布&lt;/p&gt;
+
+&lt;p&gt;《期权、期货和其他衍生品》 约翰·赫尔&lt;/p&gt;
+
+&lt;p&gt;《Building Reliable Trading Systems: Tradable Strategies That Perform As They Backtest and Meet Your Risk-Reward Goals》 Keith Fitschen&lt;/p&gt;
+
+&lt;p&gt;《Quantitative Equity Investing》by Frank J. Fabozzi, Sergio M. Focardi, Petter N. Kolm
+Barra USE3 handbook&lt;/p&gt;
+
+&lt;p&gt;《Quantitative Equity Portfolio Management》 Ludwig Chincarini&lt;/p&gt;
+
+&lt;p&gt;《Quantitative Equity Portfolio Management》 Qian &amp;amp; Hua &amp;amp; Sorensen&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;[1]银行管存：银行存管是由银行管理资金，平台管理交易，做到资金与交易的分离，使得平台无法直接接触资金，避免客户资金被直接挪用。&lt;a href=&quot;http://www.p2peye.com/platform/bank/&quot;&gt;查询地址&lt;/a&gt;
+[2]Quant：宽客，设计并实现金融的数学模型（主要采用计算机编程），包括衍生品定价，风险估价或预测市场行为等。&lt;/p&gt;</content><author><name>Rui Ma</name></author><category term="摘要" /><category term="Quant" /><category term="理财" /><summary type="html">最近，我下载了App Store财务分类下，有银行管存[1]的所有的互金产品，包括爱钱进、悟空理财、PPmoney，好规划等等。我发现大部分理财产品新人礼包的综合年利率都能达到10%以上，但是要么只能维持一个月、要么就是有定额限制。在收益驱动下，我又开始接触且慢和魔方理财，受这些量化投资APP的启发，自己慢慢开始琢磨一些策略，所以整理出一些Quant[2]资源。</summary></entry><entry><title type="html">我的百年阿里</title><link href="http://localhost:4000/ACentenaryOfAlibaba/" rel="alternate" type="text/html" title="我的百年阿里" /><published>2017-09-03T04:54:23+08:00</published><updated>2017-09-03T04:54:23+08:00</updated><id>http://localhost:4000/ACentenaryOfAlibaba</id><content type="html" xml:base="http://localhost:4000/ACentenaryOfAlibaba/">&lt;p&gt;如果对阿里巴巴有一些了解，那么对于“百阿”一定不会陌生。这场被外界称之为洗脑的培训，在我经历之后，有了一些不一样的认识和感悟。&lt;/p&gt;
+
+&lt;h1 id=&quot;素拓定向&quot;&gt;素拓&amp;amp;定向&lt;/h1&gt;
+
+&lt;p&gt;一场培训，素拓训练是必不可少的，百阿也不例外。一入营，先分组，然后第一天就是一整天的素拓和定向活动。说实话，在一群人比赛谁最快喊出“我们是最棒的”口号的环节时，我内心是崩溃的，感觉自己进入了一个传销公司好嘛！&lt;/p&gt;
+
+&lt;p&gt;然而，在团队项目时，却有了不一样的感受。任务要求一群人彼此还很陌生的人，却要信任彼此，去共同完成任务。说实话，我是个不太轻易相信别人的人，很多时候宁愿自己向前冲，能自己解决的问题绝不麻烦别人。但是，这一刻，却必须要把自己后背交给他人，而且是刚认识不久还不特别熟悉的人，这对我是特别大的考验。&lt;/p&gt;
+
+&lt;p&gt;所以，当完成抬人过墙和凌空取水两个项目时，我内心是有所触动的。当培训结束的以后，从照片里看到那些当时在背后支持自己的身影时，那种感觉其实挺微妙的。&lt;/p&gt;
+
+&lt;h1 id=&quot;关于课程&quot;&gt;关于课程&lt;/h1&gt;
+
+&lt;p&gt;百阿的课程设计很特别，在认识公司和业务环节，不是单纯的讲解，而是让学员自由组队，对感兴趣的业务和部门进行探索采访，然后再回来做presentation进行PK，由此来加深对部门和业务的理解。真看、真听、真感受，真正深入一线去了解真实的情况。&lt;/p&gt;
+
+&lt;p&gt;我曾经也就认识互联网圈的人，要不就是学其他专业的同龄人，组队的小伙伴，来自阿里不同到部门，身处不同的年龄段，有着各自不同的行业背景。有搞建筑的，有搞采购的，有搞政府关系的，有搞新闻记者的等等各种各样的同学，不同的人，剖析问题的角度和思路不一样，看待问题的方式也不一样，真的让人大开眼界，思维一下子扩宽了很多。&lt;/p&gt;
+
+&lt;p&gt;在我的采访环节，有一个即将十年的阿里“老人”，说了一番对我触动很大的话。当问到十年有什么感悟时，他说：“踏实，不想太多，先做事。做完再看，一定会有收获”。想起老爷也说过我想太多，有些自己身上的毛病，真的要对比才能更深刻的领悟。&lt;/p&gt;
+
+&lt;h1 id=&quot;第五计划&quot;&gt;第五计划&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;一群有情有义的人，聚在一起做一件有意义的事情。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;也不知道怎么着，我们小组第五计划的主题就定成了“关爱园区的安全GG”。当得知要拍片时，内心的小火苗腾得一下子点燃了，从编剧到拍摄再到剪辑，每一个镜头、每一个文案的扣，两天时间，终于把视频做出来了，圆了自己的导演梦。感谢团队小伙伴的无私帮助，无条件地执行我的安排，没有你们，我想就不会有现在的宣传片。&lt;/p&gt;
+
+&lt;embed src=&quot;http://player.youku.com/player.php/sid/XMjk5MzgzMzkyNA==/v.swf&quot; allowfullscreen=&quot;true&quot; quality=&quot;high&quot; width=&quot;100%&quot; height=&quot;430&quot; align=&quot;middle&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;
+
+&lt;h1 id=&quot;国王天使&quot;&gt;国王天使&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;没有不靠谱的国王心愿，只有不努力的天使！&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;第一次玩国王与天使，看到大家都在努力为各自国王完成心愿时，感受大家彼此的爱，不禁觉得这个活动真棒！&lt;/p&gt;
+
+&lt;h1 id=&quot;关于文化价值观&quot;&gt;关于文化&amp;amp;价值观&lt;/h1&gt;
+
+&lt;p&gt;培训时，大家讨论最多的就是月饼事件。特别是讨论劝退的阿里云的XXX是否应该回来，既然能回来，当初又是否应该劝退的问题上，大家意见不一，各抒己见，也给了我一种原来互联网外的人是这么看这事儿的领悟。&lt;/p&gt;
+
+&lt;p&gt;培训中，感觉阿里的格局还是小了一些，一直介绍和说的都是阿里的东西，而在腾讯，介绍的更多的是互联网发展的大的背景、历史和未来方向。另外，阿里妈妈的一个同学表现出来的态度让我陷入思考。她一直强调阿里妈妈的广告是第一的，但是竞争对手的数据又没法拿出来。那么，这个第一排名又从何而来？我相信，广点通的用户触达量（微信+QQ+京东+其他）量级一定是超过淘系的。广告收入上，毕竟双十一还没到来，今年二季度的财报不是很好看，618天猫刚输给京东。那么阿里妈妈同学的强大自信是从而而来呢？&lt;/p&gt;
+
+&lt;p&gt;不能说夜郎自大、只能说是过度包装吧，阿里巴巴的还是存在一些盲目的、可劲儿忽悠的人。&lt;/p&gt;
+
+&lt;p&gt;关于文化，还有一点想说的就是使命愿景价值观在阿里是要默写出来的！写错是要重考的！相比在腾讯，因为认同，而去探寻，把长颈鹿、犀牛和犀牛鸟、鹦鹉螺、海燕刻在文化衫上的做法，还有一些差距。&lt;/p&gt;
+
+&lt;p&gt;诚然，阿里有他的不好，也有他的好，他没有想象中的那么好，也没有想象中的那么差。就像一个真实的人，有人喜欢，有人不喜欢而已。没必要去指责或是黑化。平常心看待。&lt;/p&gt;
+
+&lt;h1 id=&quot;零散收获&quot;&gt;零散收获&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;阿里云的一位P10预测腾讯云拼不过阿里云的原因我是认同的，阿里All in在云上，腾讯云只是SNG下的一个部门；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;不是要等着老板告诉你要做什么，而是自己想清楚做什么以后告诉老板；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;机会是给有准备的人，只要是汇报，最好都准备一份PTT；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;阿里汇报关系随着职业发展，会有很多，给你打分的主管也不是一个两个，也许今天在做这件事，明天就被拉到另一个项目中工作；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;寻求他人帮助和沟通前，先做好自己能做的一切准备，不是每一个问题都要打扰别人；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;保持专注+好奇心；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;想想自己的核心竞争力是什么，别人做不了的事情，那是自己最锋利的“刀”，职场上要么在磨刀，要么是亮刀杀人。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;写在最后&quot;&gt;写在最后&lt;/h1&gt;
+
+&lt;p&gt;感谢百阿，不仅让我认识了阿里，也让我重新审视了自己。百阿短短几天中，接触了很多不同职位，不同level，不同行业的人，对我思想冲击很大。我一直以为，职业前几年，最好是有个好公司或者说是好平台能够带着你成长，现在我发现自己错了，阿里也是混乱的，不停的变动着，每个人都是在野蛮生长。你可以借助平台的优势，但是不能指望平台像奶妈一样帮你，成长是自己的事情，不是别人的义务。猛然觉醒，我这也算是一种“巨婴”心态吧。哪里都要经历摸爬滚打，野蛮生长的本身就是成长啊。&lt;/p&gt;
+
+&lt;p&gt;我也算共事过百度、阿里、腾讯、盛大几个公司的人，他们也体现出各自的不同风格。只能说企业文化会影响一个人做事风格，但不能最终决定什么。每个人的特质千差万别，优点也不尽相同，要善于学习他人好的一面，成就更好的自己。&lt;/p&gt;
+
+&lt;p&gt;百阿中的那么多小伙伴，个个都是有故事的人。他们经历过退学、离婚、单亲家庭、被人指着鼻子骂过、被朝阳大妈搞过，经历过痛苦，挣扎，否定和迷茫。如今，我们一起在阿里沉淀下来，思考和规划着未来，愿一起继续成长。&lt;/p&gt;</content><author><name>Rui Ma</name></author><category term="总结" /><category term="阿里巴巴" /><category term="思考" /><category term="培训" /><summary type="html">如果对阿里巴巴有一些了解，那么对于“百阿”一定不会陌生。这场被外界称之为洗脑的培训，在我经历之后，有了一些不一样的认识和感悟。</summary></entry><entry><title type="html">离职小记</title><link href="http://localhost:4000/Growing/" rel="alternate" type="text/html" title="离职小记" /><published>2017-07-01T22:54:23+08:00</published><updated>2017-07-01T22:54:23+08:00</updated><id>http://localhost:4000/Growing</id><content type="html" xml:base="http://localhost:4000/Growing/">&lt;p&gt;2016年06月19日，我离职了，颇多感慨。是时候该静下心来，对这份工作做一次总结盘点。&lt;/p&gt;
+
+&lt;h2 id=&quot;工作总结&quot;&gt;工作总结&lt;/h2&gt;
+
+&lt;h3 id=&quot;工作内容&quot;&gt;工作内容&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;维护内容中心CMS后台&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;搭建版权平台&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;搭建稿酬计算平台&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;搭建作家自媒体平台&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;搭建作家学院&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;搭建审核平台&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;规划专栏项目&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;工作收获&quot;&gt;工作收获&lt;/h3&gt;
+
+&lt;p&gt;&lt;b&gt;表达能力&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;抽象思维和概括总结能力，有了初步的提升，还需不断加强与进步。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;沟通技巧&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;当面沟通&amp;gt;电话&amp;gt;邮件&amp;gt;IM。&lt;/p&gt;
+
+&lt;p&gt;两人沟通，不然三人沟通。两人很难互相说服时，有第三人在场会缓解气氛。&lt;/p&gt;
+
+&lt;p&gt;谈不下来的，控制沟通成本，及时寻求己方和对方上级介入。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;团队协作能力&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;提高团队协作效率和积极性方面，需要努力改善。如何给团队打鸡血，不仅仅是请客吃饭、喝下午茶和发红包那么简单，更重要的是，要让协作团队从根本意识上认为跟着你干是有前途的。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;抗压能力&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;要及时给自己减压，喝酒、看书、看电影、运动、听讲座都是不错的减压方式。当然，总有扛不住的时候，见过有人泡夜店，有人靠酒催眠，有人看电影，都是可以理解的。但要相信没有过不去的坎儿。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;审美能力&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;目前自己能做到的就是多看公众号、设计网站，多和设计沟通，一直在成长中。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;职业素养&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;任何时间都要保持积极的心态，哪怕离职前，也不能消极工作，这是职业操守和个人素养问题。&lt;/p&gt;
+
+&lt;p&gt;任何环境都要高标准要求自己，在抱怨别人不专业的同时，你要站出来，主动承担责任，扩大自己影响。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;技术方面&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;这一年迷上python对于金融数据的分析和处理以及前端技术，vue.js也在学习中。&lt;/p&gt;
+
+&lt;h3 id=&quot;项目成败分析&quot;&gt;项目成败分析&lt;/h3&gt;
+
+&lt;p&gt;&lt;b&gt;版权平台&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;成：项目成功上线，推动bootstrap规划化使用，推动内容中心所有后台搭建规范的落地，让后台产品使用时更加友好和舒适。&lt;/p&gt;
+
+&lt;p&gt;败：对历史线下数据处理预估不足，大量的数据清洗浪费时间和人力。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;稿酬计算平台&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;成：历史计算流程的梳理，抽象成模块化，搭建系统上线。&lt;/p&gt;
+
+&lt;p&gt;败：后期因为个人问题，对项目整体掌控不足，略有失控，及时调整后，逐渐恢复正轨。旁路期间对后台产品运营成本预估不足，运营推广上个人投入时间和精力不够，其实可以更好和leader、项目伙伴沟通解决这个问题。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;作家自媒体平台&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;上线后，缺乏有效运营手段，冷启动方案不足，后期也没有及时铺量。对产品的迭代没有跟上，个人后期投入时间不够，没有很好的分配自己每一个项目的时间。缺乏运营同学加入时，没有很好和leader保持沟通，人员安排上也有不足。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;作家学院&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;上线后，对产品的迭代没有跟上，后期投入时间不够，没有很好的分配自己每一个项目的时间。完全是靠作家每日写作的刚需，才保留PV和UV量。后期数据分析也没有跟上，没有及时复盘。&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;审核平台&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;对项目落地的开发工作预估不足，跨中心、跨地区没有做到很好的沟通。&lt;/p&gt;
+
+&lt;h3 id=&quot;离职原因&quot;&gt;离职原因&lt;/h3&gt;
+
+&lt;p&gt;个人还是想多做一些偏靠前的产品工作，后台底层业务接久了，不免有些麻木。同时，上海的房价物价和工资现状让人绝望。希望有一天可以不对房子、车子、票子低头，可以去追寻诗和远方。&lt;/p&gt;
+
+&lt;h2 id=&quot;个人成长&quot;&gt;个人成长&lt;/h2&gt;
+
+&lt;p&gt;参加了一些行业讲座，认识了一些行业大咖，开始创建自己的个人品牌，开始运营公众号、简书、个人blog等自媒体，专业社区的互动也结识了更多的朋友。&lt;/p&gt;
+
+&lt;p&gt;最后，感谢老爷在我放弃BAT，或者说是BAT放弃我的时候，带我入行。谢谢巨总、金宝、虎子、大师，接了我那么多靠谱或不靠谱需求。感谢丸子姐一直为我个人问题操碎了心，感谢曦哥在审核项目中的大力支持，感谢彭总一直以来的关照，感谢离开公司那一天所有人的相送，认识你们真好。&lt;/p&gt;</content><author><name>Rui Ma</name></author><category term="总结" /><summary type="html">2016年06月19日，我离职了，颇多感慨。是时候该静下心来，对这份工作做一次总结盘点。</summary></entry><entry><title type="html">审核后台框架搭建</title><link href="http://localhost:4000/CheckControl/" rel="alternate" type="text/html" title="审核后台框架搭建" /><published>2017-06-14T22:54:23+08:00</published><updated>2017-06-14T22:54:23+08:00</updated><id>http://localhost:4000/CheckControl</id><content type="html" xml:base="http://localhost:4000/CheckControl/">&lt;h2 id=&quot;功能清单&quot;&gt;功能清单&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;分类&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;涉及功能&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;审核平台&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;AGC 审核&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;NLP&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;关键词&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;审核页面&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;智能抄袭对比&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;UGC 审核&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;关键词&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;防水打击&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;审核页面&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;鉴别黄图&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;注：
+AGC：Author Generated Content，作品内容、笔名等。
+UGC：User Generated Content，书评、章评、站内信等。&lt;/p&gt;
+
+&lt;h2 id=&quot;时序图&quot;&gt;时序图&lt;/h2&gt;
+
+&lt;h3 id=&quot;agc-时序图&quot;&gt;AGC 时序图&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/%E6%96%87%E7%AB%A0%E5%AE%A1%E6%A0%B8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ugc-评论时序图&quot;&gt;UGC 评论时序图&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/%E8%AF%84%E8%AE%BA%E5%AE%A1%E6%A0%B8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ugc-评论举报时序图&quot;&gt;UGC 评论举报时序图&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;涉及功能&quot;&gt;涉及功能&lt;/h2&gt;
+
+&lt;h3 id=&quot;nlp-应用&quot;&gt;NLP 应用&lt;/h3&gt;
+
+&lt;p&gt;采用腾讯的NLP技术&lt;strong&gt;&lt;a href=&quot;http://nlp.qq.com/&quot;&gt;文智&lt;/a&gt;&lt;/strong&gt;，应用到分词和关键词对比过程中，对语句计算风险值，触发进入待审逻辑。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/NLP.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;智能抄袭对比&quot;&gt;智能抄袭对比&lt;/h3&gt;
+
+&lt;p&gt;自研技术，根据分词提取每篇文章的特征词库，对文章的特征词库进行对比,判断重复度，根据重复度判定文章是否属于抄袭。&lt;/p&gt;
+
+&lt;p&gt;样本库为内容中心全量章节，一直处于增长状态，如何提升对比性能问题是技术难点。&lt;/p&gt;
+
+&lt;h3 id=&quot;防水打击技术应用&quot;&gt;防水打击技术应用&lt;/h3&gt;
+
+&lt;p&gt;智能防水打击，根据朴素贝叶斯分类进行分类训练和线上服务，使用机器学习自动判断水帖进行打击。&lt;/p&gt;
+
+&lt;p&gt;机器学习判断不了的UGC内容，会进入人工判断环节，人工判定后会加入机器学习库，优化智能打击力度。&lt;/p&gt;
+
+&lt;h3 id=&quot;鉴别黄图应用&quot;&gt;鉴别黄图应用&lt;/h3&gt;
+
+&lt;p&gt;作者或者用户上传的图片中，可以先用技术手段过滤一遍黄图。&lt;/p&gt;
+
+&lt;p&gt;审核系统接入腾讯万象优图&lt;a href=&quot;https://www.qcloud.com/product/PornIdentification?idx=2&quot;&gt;鉴黄接口&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;关键词过滤应用&quot;&gt;关键词过滤应用&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;支持人工单一和批量地对关键词库进行增删改查；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;针对每个关键词会有一套[ 风险值 · 应用版面 · 屏蔽模式 ]，根据风险值、应用版面、屏蔽模式判定触发待审逻辑；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;组合关键词[ A,B ]是一个关键词，对应一套[ 风险值 · 应用版面 · 屏蔽模式 ]，当过滤文本中同时命中A和B（无关次序和间隔字符），才算命中。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;审核页面&quot;&gt;审核页面&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;审核页面展示进入待审列表的审核条目；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;针对审核工作有审核日志可查；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;针对操作人有工作量统计报表；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;二审人员对审核结果有二次判断；&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;可以针对用户进行封禁操作，调用统一封禁接口。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Rui Ma</name></author><category term="产品总结" /><category term="审核后台" /><summary type="html">功能清单</summary></entry><entry><title type="html">互联网人的钱该如何安放，才能过好这一生</title><link href="http://localhost:4000/ManageMoneyMatters/" rel="alternate" type="text/html" title="互联网人的钱该如何安放，才能过好这一生" /><published>2017-05-29T04:30:23+08:00</published><updated>2017-05-29T04:30:23+08:00</updated><id>http://localhost:4000/ManageMoneyMatters</id><content type="html" xml:base="http://localhost:4000/ManageMoneyMatters/">&lt;h2 id=&quot;互联网人面对的投资问题&quot;&gt;互联网人面对的投资问题&lt;/h2&gt;
+
+&lt;p&gt;我们先看目前大家面临的问题：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;有点闲钱，但是不知道投什么怎么投。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;大家平时都挺忙的，没有时间去琢磨各种互金产品、投资标的和投资策略。但是投资证券市场甚至是黄金、期货、股权市场是需要花大量时间去研究的，办不到的话只能提升亏钱的概率。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;原来简单粗暴的理财方式不灵了。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;货币基金利率太低，市面上大家很熟悉、用起来也很方便的固定收益类产品（P2P之类的）正在经历行业转型，整个行业风险大，同时回报率也在降低。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;环境变化太快，需要安全感。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;不得不说，互联网行业变化太快，风向说变就变，创业公司说倒就倒，如果不持续学习很容易就被淘汰，这也是让人们焦虑的原因之一。通过投资给我们的生活增添一份保障、不至于在急用钱时捉襟见肘，才是大多数人的诉求。&lt;/p&gt;
+
+&lt;p&gt;实际上，有目标、有行动、有存款，能极大程度降低焦虑感和危机感，不信你可以试试看。&lt;/p&gt;
+
+&lt;h2 id=&quot;互联网人的投资需求&quot;&gt;互联网人的投资需求&lt;/h2&gt;
+
+&lt;p&gt;因为互联网这个行业特性，大家在投资上也有一些不同于其他人的需求。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;计较投资的ROI。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;平时我们做项目计较ROI，做投资其实也要计较ROI。其实吧，在职业初期，不管你怎么投资都比不过工资涨幅快。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;操作便捷高效。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;同样地，如果我们确定了投资方式，在操作上也需要尽量便捷高效，一方面同样可以节省我们的时间，另一方面我相信作为互联网人，你根本忍不了不便捷不高效的产品，无论你是不是产品经理，你都会吐槽这款产品真TM难用！&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;稳健增值。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;最后一点，切记，你投资是为了资产长期增值（跑赢通胀，在可接受的风险程度下有一定收益），而不是一夜暴富。纯粹通过投资理财走上人生巅峰的业余选手几乎没有。清醒些，别做梦了，有啥想不开的再回去看下第一条。&lt;/p&gt;
+
+&lt;h2 id=&quot;投资建议&quot;&gt;投资建议&lt;/h2&gt;
+
+&lt;p&gt;我推荐大家在投资这件事上，先从养成良好的投资习惯开始，具体到行动上，就是建立自己的三个账户计划：&lt;strong&gt;零钱账户&lt;/strong&gt; + &lt;strong&gt;增值账户&lt;/strong&gt; + &lt;strong&gt;投机账户&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;这三个账户并不是说要你真的开三个银行账户，而是把你的钱配置在三种不同的投资目的上。&lt;/p&gt;
+
+&lt;p&gt;这个概念出处来自一个重量级大牛：前汇丰投资管理公司亚太区行政总裁Blair C. Pickerell。他提出了“三个钱袋子”的概念，分别是短期流动性、中长期投资和风险投机，非常适合小白入门阶段来构建自己的资产配置，通俗简单易操作。&lt;/p&gt;
+
+&lt;p&gt;综合互联网人的投资问题和投资需求，以及我在实践中的体会，建议大家把这3个账户做如下配置：&lt;/p&gt;
+
+&lt;h3 id=&quot;零钱账户&quot;&gt;零钱账户&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;这部分钱的用途是日常开销和应急。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;投资产品主要就是银行活期存款和各种宝宝（货币基金），好处是流动性强，随存随取。当然，虽然不指望这部分钱能产生多少收益，但货币基金的利息不要白不要，何况最近这么给力，已经4%+了。&lt;/p&gt;
+
+&lt;p&gt;放多少钱合适呢？建议留出你1~3个月的生活费放在这个账户里。（1~3个月的生活费究竟是多少钱？想象一下你明天突然因为某种原因失业了，或者公司发不下工资了，在完全没有职业收入的情况下这个账户里的钱要足够你按照现在的开销生活1~3个月。）有些人会建议你预留3~6个月，但在原始资本积累阶段，我是不建议放这么多钱（每一块钱都要用到刀刃上），何况现在什么年代了，蚂蚁花呗、京东白条的额度也足够支撑1个月了。&lt;/p&gt;
+
+&lt;h3 id=&quot;增值账户&quot;&gt;增值账户&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;这部分钱的用途是让自己的钱实现跑赢通货膨胀，并实现稳健增值。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;就现在的经济环境来说，最简单靠谱的方案是构建指数组合并长期定投（比如说看好中国经济长期变好，直接定投沪深300就可以了），再升级一点，就是配置全球各品类的资产构建组合，这个可以参考目前市面上的智能投顾产品，策略正确，操作省事，这也是我为什么对这块儿有兴趣的原因。另外这个部分还可以配置一部分较稳健的P2P，虽然P2P属于高风险，但是从稳健的角度去挑选还是有很多家可以选择的。&lt;/p&gt;
+
+&lt;p&gt;放多少钱合适？这里先不说，一会儿和投机账户一起聊。&lt;/p&gt;
+
+&lt;h3 id=&quot;投机账户&quot;&gt;投机账户&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;这部分钱的用途就是为了短期套利。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;投机可选择的金融产品太多了，基金、股票、黄金、外汇、期货、期权等等，以及大部分的P2P，这些金融产品的统一特征就是高风险、高收益（当然对应地就是也可能亏得很惨）、学习成本较高、对操作也有一定要求。如果你有兴趣，可以琢磨其中一两个品类去研究，关键在于放多少钱在这类资产上。&lt;/p&gt;
+
+&lt;p&gt;你的增值账户和投机账户应该以某个比例来分配你的剩余资金（就是除了零钱账户以外的所有钱），有一种非常简单的算法在这里推荐给你，只需要知道两个条件：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;年龄。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;一个人的年龄越小，抗打击的能力就越大；年龄越大，抗打击的能力就越小。比如说，如果一个人在25岁的时候亏的身无分文，他还有至少50年的时间可以翻盘回本，简直so easy；而如果一个人在75岁的时候亏的身无分文，他可能真的无法安度余生了。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;个人风险承受能力。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;网上有很多风险承受能力的问卷，很多基金、P2P的APP里面也都会让你填（根据相关部门要求，很快就是必填项了），可以去找来测一测，不过我相信你应该都测过。一般都是5个等级，代表了你对风险和亏损的不同态度。&lt;/p&gt;
+
+&lt;p&gt;那怎么去计算这个比例呢？&lt;/p&gt;
+
+&lt;p&gt;首先，用100减去你的实际年龄，得到一个数字，这个数字就是你投机账户的初始占比；&lt;/p&gt;
+
+&lt;p&gt;其次，根据你的风险承受能力，按下表调整你得出的数字，即调整投机账户的占比，就会得出你实际应该分配到投机账户的钱数。&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;风险承受能力&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;在[100-年龄]配置法上做的调整&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;增值账户/投机账户的配比&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;很高&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10%/90%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;高&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+10%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20%/80%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;中&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30%/70%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;低&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-10%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40%/60%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;很低&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50%/50%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;举个栗子：&lt;/p&gt;
+
+&lt;p&gt;某产品经理今年30岁，从业5年，目前每个月房租5000，开支5000，一共1万，另外还有存款20万。那么他应该如何配置自己的三个账户呢？&lt;/p&gt;
+
+&lt;p&gt;首先，留2万在余额宝，这是2个月的日常开销；&lt;/p&gt;
+
+&lt;p&gt;其次，算了一下他的个人风险承受能力，原来是个偏风险厌恶型的投资者，对于投资这件事，最多只能接受10%的本金亏损，属于“低”的水准。按照“100-年龄”的配置法，他的投机账户初始配置比例是70%，再加上风险测评结果，应当是 70%-10%=60%，即增值账户配置40%，投机账户配置60%。&lt;/p&gt;
+
+&lt;p&gt;所以，他剩余的20万，可以拿出8万元用于增值，剩余的12万用于投机。&lt;/p&gt;</content><author><name>Rui Ma</name></author><category term="金融" /><category term="理财" /><category term="投资" /><summary type="html">互联网人面对的投资问题</summary></entry><entry><title type="html">自媒体平台汇总及简要分析</title><link href="http://localhost:4000/WemediaAnalysis/" rel="alternate" type="text/html" title="自媒体平台汇总及简要分析" /><published>2017-04-01T11:42:16+08:00</published><updated>2017-04-01T11:42:16+08:00</updated><id>http://localhost:4000/WemediaAnalysis</id><content type="html" xml:base="http://localhost:4000/WemediaAnalysis/">&lt;h2 id=&quot;微信公众平台&quot;&gt;&lt;a href=&quot;https://mp.weixin.qq.com/&quot;&gt;微信公众平台&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/weixin.jpg&quot; alt=&quot;微信公众平台&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;再小的个体，也有自己的品牌&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;自主性，互动性强，传播力广&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;去中心化，很难说去中心化是优点还是缺点&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;想要点击量(阅读数)，必须现有展现量(粉丝数)，而粉丝的积累是个可怕的过程。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;关注操作导致不公开，不公开导致不能像微博一样做大范围传播，不能形成围观、评论等。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;网易云阅读&quot;&gt;&lt;a href=&quot;http://open.yuedu.163.com/&quot;&gt;网易云阅读&lt;/a&gt;　&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oqsovnm36.bkt.clouddn.com/netease.jpg&quot; alt=&quot;网易&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;网易云阅读，给你最自由的创作空间&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;非连载创作，自由表达，且随时可将自己的文集结集出版，独享100%收入　&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;分享平台很多，特别是易信朋友圈，和网易微博、搜狐微博，虽然用的人少，但是总归是一个平台，分享了总比不分享好&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;菜鸟几乎没有数据，网易云阅读和网易新闻的网易号广场基本都是在其他平台已然是大咖的文章&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;蓝鲸tmt&quot;&gt;&lt;a href=&quot;http://www.lanjingtmt.com/&quot;&gt;蓝鲸TMT&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TMT编辑记者工作平台·TMT行业新闻发源地&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;平台申请很麻烦，需要邀请或者是去新浪微博私信，我没有申请，有兴趣的可以去看看，主要是TMT行业新闻发源地。&lt;/p&gt;
+
+&lt;h2 id=&quot;淘宝达人&quot;&gt;&lt;a href=&quot;http://daren.taobao.com/&quot;&gt;淘宝达人&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在人工智能将替代一切的未来，唯有内容的创造无可替代&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;平台垂直，针对微淘&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;淘宝类似小红书、网易美学的内容带动电商产品&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;逼格没有网易美学高&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;百度百家&quot;&gt;&lt;a href=&quot;http://baijia.baidu.com/&quot;&gt;百度百家&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在这里影响世界&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;借助百度的大平台&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;文章质量不错，但放松申请要求以后，内容质量下降&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日头条&quot;&gt;&lt;a href=&quot;https://mp.toutiao.com&quot;&gt;今日头条&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;你创作的，就是头条&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;内容质量要求严格，申请时，文章的内容必须专注于一个一个点，针对性的去写&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;文章的内容要求与头条号的定位相关&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;智能推荐，无需拓展粉丝，只要专注于写好文章&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;文章必须首发，如果今日头条在其他渠道抓取了这篇文章，作者就发布不成功&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;读者素质普遍较低，或者说ugc内容、社区评论没有有效的打击、防水、过滤等策略&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;知乎&quot;&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/&quot;&gt;知乎&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;随心写作，自由表达&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;针对性很强，获得的关注者质量很高&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;内容优质&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;专业性过强&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;豆瓣日志&quot;&gt;&lt;a href=&quot;https://www.douban.com/&quot;&gt;豆瓣日志&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我们的精神角落&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;百度收录很厉害&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;结合豆瓣小组做推广和分享，能起到不错的效果&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;内容优质&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;过于文艺和小众，曝光量少，除非上首页推荐&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;简书&quot;&gt;&lt;a href=&quot;http://www.jianshu.com/&quot;&gt;简书&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;源于创作，不止遇见&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;首页推荐，流量入口。有几篇文章投稿到首页，数据效果都非常不错&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;支持Markdown，干净纯粹，非常适合安静地写作&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;自动保存，永不丢稿&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;搜狐公众平台&quot;&gt;&lt;a href=&quot;http://mp.sohu.com/&quot;&gt;搜狐公众平台&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;无&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;数据少的可怜，流量推广太少，不说也罢。&lt;/p&gt;
+
+&lt;h2 id=&quot;天涯论坛&quot;&gt;&lt;a href=&quot;http://bbs.tianya.cn/&quot;&gt;天涯论坛&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;全球华人网上家园&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;黄金时代已不在&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;百度搜录很厉害&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;可以转帖到你想要的百度贴吧里&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;写博客不如在论坛里发帖&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;360自媒体&quot;&gt;&lt;a href=&quot;http://wemedia.kandian.360.cn/&quot;&gt;360自媒体&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Slogan ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;无&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;个人观点 ：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;360自媒体平台，推出比微信搜索还早，但是好像不景气，现在可以打开自媒体页面，但是也关闭申请页面。&lt;/p&gt;
+
+&lt;h2 id=&quot;写在结尾&quot;&gt;写在结尾&lt;/h2&gt;
+
+&lt;p&gt;我觉得，一个自媒体人，他是人，他是有血有肉的灵魂，他不可能每天只写科技、每天只写财经，或者每天只写时政，他有他的爱情，他也有他的生活，如果想要有一个开放的平台，简书、微信、今日头条，别给自媒体人那么多限制，做那么多栏目，这些反而是一种束缚。&lt;/p&gt;
+
+&lt;p&gt;另外，对于没有覆盖的自媒体平台，也欢迎大家向我推荐，多多交流。&lt;/p&gt;</content><author><name>Rui Ma</name></author><category term="总结" /><category term="自媒体" /><category term="产品" /><summary type="html">微信公众平台</summary></entry></feed>
